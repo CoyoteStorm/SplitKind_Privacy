@@ -140,7 +140,7 @@ Contact Us
 If you have questions, concerns, or requests regarding privacy or this Privacy Policy, please contact:
 
 Email:
-tabup_yourprivacy@johnadrian.com
+TabUp_Privacy@protonmail.com
 
 We will make reasonable efforts to respond in a timely manner.
 
