@@ -113,7 +113,7 @@ Because your information stays on your device, you remain in control of your dat
 
 Delete App Data
 
-Deleting the Tab Up app from your iPhone removes locally stored app data, including saved checks, guests, and preferences.
+Deleting the SplitKind app from your iPhone removes locally stored app data, including saved checks, guests, and preferences.
 
 Delete Individual Information
 
@@ -148,6 +148,6 @@ We will make reasonable efforts to respond in a timely manner.
 
 Additional Information
 
-SplitKind is an independent application. This Privacy Policy applies only to the Tab Up app and does not apply to third-party applications, services, or websites.
+SplitKind is an independent application. This Privacy Policy applies only to the SplitKind app and does not apply to third-party applications, services, or websites.
 
 This Privacy Policy is governed by applicable laws of the United States.
