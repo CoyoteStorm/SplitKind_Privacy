@@ -1,21 +1,21 @@
-TAB UP! — PRIVACY POLICY
+SplitKind — PRIVACY POLICY
 
-Effective Date: June 1, 2026
-Last Updated: June 1, 2026
+Effective Date: November 1, 2026
+Last Updated: November 1, 2026
 
-Thank you for using Tab Up! Your privacy matters to us. This Privacy Policy explains what information the app uses, how it is stored, and what we do — and do not do — with your data.
+Thank you for using SplitKind Your privacy matters to us. This Privacy Policy explains what information the app uses, how it is stored, and what we do — and do not do — with your data.
 
 ⸻
 
 The Short Version
 
-Tab Up stores your information locally on your device. We do not operate servers, collect analytics, sell data, display advertisements, or require user accounts. Your information stays on your iPhone unless you intentionally choose to share it using Apple’s built-in sharing features.
+SplitKind stores your information locally on your device. We do not operate servers, collect analytics, sell data, display advertisements, or require user accounts. Your information stays on your iPhone unless you intentionally choose to share it using Apple’s built-in sharing features.
 
 ⸻
 
 Information the App Uses
 
-Tab Up may store the following information locally on your device:
+SplitKind may store the following information locally on your device:
 
 * Saved checks, including items, prices, tax, tip, and assigned guests
 * Guest information you enter, including names, optional phone numbers, and “Regulars” status
@@ -32,9 +32,9 @@ We do not upload, transmit, or store your information on external servers.
 
 Permissions the App Requests
 
-Tab Up may request access to certain iPhone features only when you choose to use related functionality.
+SplitKind may request access to certain iPhone features only when you choose to use related functionality.
 
-Tab Up uses standard Apple iOS frameworks for camera, photo library, and contact access.
+SplitKind uses standard Apple iOS frameworks for camera, photo library, and contact access.
 
 You may grant or deny these permissions at any time through your iPhone Settings.
 
@@ -42,9 +42,9 @@ Contacts
 
 Used only when you choose “Choose from Contacts” while adding a guest.
 
-Tab Up accesses only the contact information you select in order to help fill in guest details such as name and phone number.
+SplitKind accesses only the contact information you select in order to help fill in guest details such as name and phone number.
 
-Tab Up does not:
+SplitKind does not:
 
 * read your entire contacts list,
 * store your contacts,
@@ -57,7 +57,7 @@ Photo Library
 
 Used only when you choose “Choose from Library” while adding a receipt photo.
 
-Tab Up accesses only the photo you select for display during your check session.
+SplitKind accesses only the photo you select for display during your check session.
 
 The app does not:
 
@@ -77,7 +77,7 @@ Photos captured through the app remain on your device unless you intentionally s
 
 What We Do NOT Do
 
-To be clear, Tab Up does not:
+To be clear, SplitKind does not:
 
 * collect analytics or usage tracking data
 * track users across apps or websites
@@ -101,7 +101,7 @@ Any information shared through third-party apps is governed by the privacy polic
 
 Children’s Privacy
 
-Tab Up is not directed toward children under the age of 13.
+SplitKind is not directed toward children under the age of 13.
 
 We do not knowingly collect personal information from children. Because data remains locally on the device and is not transmitted to us, we do not maintain personal data for any users.
 
@@ -123,7 +123,7 @@ Revoke Permissions
 
 You may revoke access to Contacts, Photos, or Camera at any time by going to:
 
-iPhone Settings → Tab Up
+iPhone Settings → SplitKind
 
 ⸻
 
@@ -140,7 +140,7 @@ Contact Us
 If you have questions, concerns, or requests regarding privacy or this Privacy Policy, please contact:
 
 Email:
-TabUp_Privacy@protonmail.com
+SplitKind_Privacy@protonmail.com
 
 We will make reasonable efforts to respond in a timely manner.
 
@@ -148,6 +148,6 @@ We will make reasonable efforts to respond in a timely manner.
 
 Additional Information
 
-Tab Up is an independent application. This Privacy Policy applies only to the Tab Up app and does not apply to third-party applications, services, or websites.
+SplitKind is an independent application. This Privacy Policy applies only to the Tab Up app and does not apply to third-party applications, services, or websites.
 
 This Privacy Policy is governed by applicable laws of the United States.
