@@ -1,2 +1,2 @@
-# TabUp_Privacy
-Privacy Policy for Tab Up! iOS app
+# SplitKind_Privacy
+Privacy Policy for SplitKind iOS app
